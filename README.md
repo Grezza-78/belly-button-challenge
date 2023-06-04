@@ -23,8 +23,12 @@ A bubble chart with a dropdown menu to display the each OTU found from the indiv
     * The "otu_labels" as the hovertext
 
 **Demographic Info display**
-
 Display the metadata based on the individual "subject_id" selected
+
+
+**Gauge Chart**
+Created a to plot the weekly washing frequency of the selected individual that updates whenever a new sample is selected.
+
 
 The dashboard is interactive as it changes everytime a new sample is selected from thge Subject ID No drop down menu
 
