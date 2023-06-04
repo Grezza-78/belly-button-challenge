@@ -26,6 +26,6 @@ function gauge_Chart(subject_id, data_set) {
 
     }];
 
-    // Using Plotly to draw that Gauge chart
+    // Render the plot to the div tag with id "gauge"
     Plotly.newPlot("gauge", trace3)
 }
