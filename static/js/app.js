@@ -46,7 +46,7 @@ function bar_Chart(subject_id,data_set) {
         yaxis: {autorange : "reversed"}
     }
 
-    // Render the plot to the div tag with id "plot"
+    // Render the plot to the div tag with id "bar"
     Plotly.newPlot("bar", trace_Data, layout);
 }
 
@@ -91,7 +91,7 @@ function bubble_Chart(subject_id, data_set) {
         xaxis: {title : "OTU ID"}
     }
 
-    // Render the plot to the div tag with id "plot"
+    // Render the plot to the div tag with id "bubble"
     Plotly.newPlot("bubble", trace_Data2, layout_2);
 }
 
