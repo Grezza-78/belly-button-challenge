@@ -29,6 +29,5 @@ Display the metadata based on the individual "subject_id" selected
 **Gauge Chart**
 Created a to plot the weekly washing frequency of the selected individual that updates whenever a new sample is selected.
 
-
-The dashboard is interactive as it changes everytime a new sample is selected from thge Subject ID No drop down menu
+[**Click Here**](https://grezza-78.github.io/belly-button-challenge/) for access to the interactive dashboard that changes everytime a new sample is selected from the "Subject ID No" drop down menu.
 
